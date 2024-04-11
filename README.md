@@ -1,5 +1,5 @@
 # Born2beroot
-![image](https://github.com/ismaelucky342/Born2beroot/assets/153450550/0866899d-a3b4-47a4-8c51-49b784122b59)
+![image](https://github.com/ismaelucky342/Born2beroot/assets/153450550/2a9ef211-c85d-487b-a1fe-1b349037fa8f)
 
 
 Born2beroot is a 42 school project that involves setting up and managing a Linux server. We must configure a server using the Debian operating system and meet several specific requirements, such as configuring a firewall, installing and configuring an SSH service, configuring system monitoring, among others. The project aims to teach students about system administration, computer security and server configuration.
