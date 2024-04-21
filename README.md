@@ -435,3 +435,9 @@ Cron or cron job is a command line utility to schedule commands or scripts to ha
 - `sudo ufw delete rule number`
 - `ssh your_user_id@127.0.0.1 -p 4242` -  do this in terminal to show that SSH to port 4242 is working
 
+
+
+# Extras 
+- Born2code
+
+  ![42madrid](https://github.com/ismaelucky342/Born2code/assets/153450550/3a377f34-9156-4eff-b04b-71c4b128523e)
